@@ -13,7 +13,7 @@ I am front end developer who loves React !
 * ⚡  Just a crazy developer who loves to develope creative stuff....>\_<
 
 <a href="https://www.github.com/anubhav09-svg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/anubhav09-svg?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
