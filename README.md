@@ -25,43 +25,13 @@ src="https://img.shields.io/github/followers/pradeep8678?logo=github&style=for-t
 <p align="left"> <a href="https://www.github.com/anubhav09-svg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/anubhav.sengar_09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="www.linkedin.com/in/anubhav-sengar-152577294
 " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
+<b>My GitHub Stats</b>
 
-<!--- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=formidablae.visitor-badge)](https://github.com/formidablae) -->
+<a href="http://www.github.com/anubhav09-svg"><img src="https://github-readme-stats.vercel.app/api?username=anubhav09-svg&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="anubhav09-svg's GitHub stats" /></a>
 
-<h3 align="left">
-	Hello and welcome :smile:
-</h3>
+<a href="http://www.github.com/anubhav09-svg"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav09-svg&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<h4 align="left">
-	Head <a href="https://github.com/formidablae/formidablae/discussions/31">over here</a> to engage, share, ask questions and collaborate together!
-</h4>
-<hr>
-
-<p align="left">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="left">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
-</p>
-
-<p align="left">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formidablae&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
-</p>
-
-<!---
-<h4 align="center">Lines of Code per language in the last year only</h4>
-<p align="center">
-	<img width="450em" src="https://api.githubtrends.io/user/svg/formidablae/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
-</p>
---->
-
-<h4 align="center">Views of all repositories (updated daily)</h4>
-<p align="center">
-	<a href="https://github.com/anubhav09-svg/my_github_profile_views_counter">
-		<img width="135em" src="https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg">
-	</a>
-</p>
-
-<!---
-
+<h2 align="left">💖𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
+  </div>
