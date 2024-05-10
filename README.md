@@ -33,5 +33,5 @@ src="https://img.shields.io/github/followers/anubhav09-svg?logo=github&style=for
 
 <h2 align="left">💖𝕿𝖍𝖆𝖓𝖐𝖘 𝖋𝖔𝖗 𝖛𝖎𝖘𝖎𝖙𝖎𝖓𝖌 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
+<img src="https://media.tenor.com/a2unmMQNYxQAAAAi/cute-happy.gif" align="left" width="373.5px" height="350">
   </div>
