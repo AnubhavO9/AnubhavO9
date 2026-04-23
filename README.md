@@ -18,10 +18,11 @@ I build scalable web applications and love turning ideas into real products.
 
 ### 🧠 Tech Stack
 
-**Frontend:** React, JavaScript, TypeScript, HTML, CSS, Bootstrap  
+**Frontend:**Angular, React, JavaScript, Python, TypeScript, HTML, CSS, Bootstrap
+**AI-Frameworks:**LangChain, n8n
 **Backend:** Node.js, Express  
-**Database:** MySQL  
-**Tools:** Git, VS Code  
+**Database:** MySQL 
+**Tools:** Git, VS Code, Dockers, Claude
 **Cloud:** Google Cloud (learning & exploring)
 
 ---
