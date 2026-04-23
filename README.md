@@ -37,7 +37,7 @@ I build scalable web applications and love turning ideas into real products.
 
 ### 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=anubhav09-svg&show_icons=true&theme=dark&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=anubhav.sengar_09&show_icons=true&theme=dark&hide_border=true)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=anubhav09-svg&theme=dark&hide_border=true)
 
