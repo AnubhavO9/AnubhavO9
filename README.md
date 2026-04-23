@@ -11,7 +11,7 @@ I build scalable web applications and love turning ideas into real products.
 * ✉️ anubhavsengar007@gmail.com  
 * 🚀 Currently working on full-stack (React + Node.js + MySQL) projects  
 * ☁️ Exploring Cloud & backend systems  
-* 🤝 Open to collaborating on impactful projects (especially EdTech)  
+* 🤝 Open to collaborating on impactful projects 
 * ⚡ I enjoy building things that actually solve problems  
 
 ---
